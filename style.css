@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#eventForm {
+    margin-bottom: 20px;
+}
+
+#eventList {
+    list-style: none;
+    padding: 0;
+}
+
+.event-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
